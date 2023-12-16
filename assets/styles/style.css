@@ -126,6 +126,9 @@ section{
 .personal-info{
     padding: 0px 40px 0px 20px;
 }
+.personal-info ul{
+padding: 40px;
+}
 .personal-info h1{
     text-align: center;
     padding: 0px 0px 25px;
@@ -170,8 +173,15 @@ section{
     margin: 20px 20px 0px;
     padding: 40px;
 }
+.port-title{
+    margin: 0 auto;
+    border-bottom: 2px solid var(--color1);
+    font-size: 18px;
+    width: fit-content;
+    padding-bottom: 2px;
+}
 .images{
-    margin: 20px 20px 0px;
+    margin: 10px 20px 10px;
 }
 .images img{
     right: 0;
